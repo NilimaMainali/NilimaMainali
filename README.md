@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a passionate MERN Stack Developer with expertise in building scalable and dynamic web applications. With hands-on experience in React.js, Node.js, Express.js, and MongoDB, I specialize in developing modern, user-friendly, and high-performance web applications.
+I am a passionate FullStack Developer with expertise in building scalable and dynamic web applications. With hands-on experience in React.js, Node.js, Express.js, and MongoDB, I specialize in developing modern, user-friendly, and high-performance web applications.
 
 
 ## 🌐 Socials:
